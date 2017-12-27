@@ -1,5 +1,7 @@
 # Coopyright Projects (or Cōpiaright Projects)
 
+[![Join the chat at https://gitter.im/coopyright-projects/Lobby](https://badges.gitter.im/coopyright-projects/Lobby.svg)](https://gitter.im/coopyright-projects/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
     Source Projects: This project uses as its base the project Coopyright License 
     https://github.com/libermans/coopyright-license (by David Liberman and Daniil Liberman)
     Project Author: David Liberman and Daniil Liberman
