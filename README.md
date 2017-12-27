@@ -14,13 +14,13 @@
     Source Projects used for this project is determine pricing.
 
 ## Intro
-New principles are described here for managing projects which will be distributed under the **Coopyright License**. The description includes the way the product development should be conducted and financed, and the way the distribution of the produced product should be carried out.
+New principles are described here for managing projects which will be distributed under the [**Coopyright License**](https://github.com/libermans/coopyright-license). The description includes the way the product development should be conducted and financed, and the way the distribution of the produced product should be carried out.
 
 Until the necessary infrastructure becomes available for the effective creation of **Coopyright License** projects, this description proposes to use existing tools such as Github, Ethereum, etc.
 
 ## Coopyright Projects creation principles
 
-  1. **Coopyright Project** is a project for developing products to be distributed under the **Coopyright License**. 
+  1. **Coopyright Project** is a project for developing products to be distributed under the [**Coopyright License**](https://github.com/libermans/coopyright-license). 
 
   The principles of **Coopyright Project**’s development are in many respects similar to the development of Open Source projects, the main difference being that the participants of the created product will be remunerated by the users of the final product.
 
