@@ -5,7 +5,7 @@
     Source Projects: This project uses as its base the project Coopyright License 
     https://github.com/libermans/coopyright-license (by David Liberman and Daniil Liberman)
     Project Author: David Liberman and Daniil Liberman
-    Project Wallet: [id4]
+    Project Wallet: 0x7d15483CF9b1Dee7D75CC6b06087DaF3FD06c602
     Terms of use: Use requires the inclusion of links to Source Projects and to this project, and 
     the addition of the cost for end users as determined in Pricing.
     Pricing: This project does not prescribe any rules for the pricing of the use of derivative 
@@ -86,7 +86,7 @@ The cost of all the work to create these principles will be collected in [cost.m
 
     First commit cost:** 8 hours х 3 ETH (attach confirmation of payment for the authors’ time by Snap Inc). 
     Authors: David Liberman and Daniil Liberman
-    Wallet: [id2].
+    Wallet: 0xE277283d893f3730c2bAbB94530e58c842186CEd
     Date: November 18, 2017
     Descriprion: First commit. Descirption of the principals
 
